@@ -30,7 +30,7 @@
     "vanillajs-datepicker": "^1.2.0"
   },
   "devDependencies": {
-    "browser-sync": "^2.27.11",
+    "browser-sync": "^3.0.2",
     "chalk": "^4.1.2",
     "dart-sass": "^1.25.0",
     "del": "^6.1.1",
